@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @klibato
 - 👀 I’m interested in by numeric science
-- 🌱 I’m currently learning Scripting , C , html/css
+- 🌱 I’m currently learning Scripting , C , ReactNative, TypeScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
